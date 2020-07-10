@@ -1,0 +1,10 @@
+{
+  "name": "mac-stringify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "repository": "https://github.com/kiochan/mac-stringify.git",
+  "author": "kiochan <sunxingchen@live.com>",
+  "license": "MIT"
+}
